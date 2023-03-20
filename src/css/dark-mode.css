@@ -1,0 +1,139 @@
+[data-theme="dark"] .logo {
+  background-image: url("../img/logo-dark.png") !important;
+}
+
+[data-theme="dark"] hr {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] a {
+  color: #85a1c3 !important;
+}
+
+[data-theme="dark"] a:hover {
+  color: #97aecb !important;
+}
+
+[data-theme="dark"] .nav-item > a {
+  color: #eee !important;
+}
+
+[data-theme="dark"] .nav-item > a:hover {
+  color: #97aecb !important;
+}
+
+[data-theme="dark"] .nav-item > a.active {
+  color: #85a1c3 !important;
+}
+
+[data-theme="dark"] {
+  background-color: #222 !important;
+  color: #eee !important;
+  transition: color 0.2s;
+}
+
+[data-theme="dark"] .jumbotron {
+  background-color: #222 !important;
+  background-image: none !important;
+}
+
+[data-theme="dark"] .bg-dark {
+  color: #eee !important;
+  background-color: #333 !important;
+  border: 1px solid #eee !important;
+}
+
+[data-theme="dark"] .bg-primary {
+  color: #3498db !important;
+  background-color: #333 !important;
+  border: 1px solid #3498db !important;
+}
+
+[data-theme="dark"] .bg-success {
+  color: #00bc8c !important;
+  background-color: #333 !important;
+  border: 1px solid #00bc8c !important;
+}
+
+[data-theme="dark"] .bg-danger {
+  color: #e74c3c !important;
+  background-color: #333 !important;
+  border: 1px solid #e74c3c !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+  color: #eee !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #2d2d2d !important;
+}
+
+[data-theme="dark"] .table-light tbody + tbody,
+[data-theme="dark"] .table-light td,
+[data-theme="dark"] .table-light th,
+[data-theme="dark"] .table-light thead th {
+  border-color: #555;
+}
+
+[data-theme="dark"] .table-light {
+  background-color: #333 !important;
+  color: #eee !important;
+}
+
+[data-theme="dark"] .table-light > tbody > tr:hover {
+  background-color: #222 !important;
+  color: #eee !important;
+}
+
+[data-theme="dark"] .peta-sebaran {
+  background-image: url(../img/location-dark.png);
+}
+
+[data-theme="dark"] .rs-rujukan {
+  background-image: url(../img/ambulance-dark.png);
+}
+
+[data-theme="dark"] .grafik {
+  background-image: url(../img/chart-dark.png);
+}
+
+[data-theme="dark"] .vaksin {
+  background-image: url(../img/chemical-dark.png);
+}
+
+[data-theme="dark"] a.rs-rujukan,
+[data-theme="dark"] a.grafik,
+[data-theme="dark"] a.vaksin,
+[data-theme="dark"] a.peta-sebaran {
+  background-color: #375a7f !important;
+}
+
+[data-theme="dark"] a.rs-rujukan:hover,
+[data-theme="dark"] a.grafik:hover,
+[data-theme="dark"] a.vaksin:hover,
+[data-theme="dark"] a.peta-sebaran:hover {
+  background-color: #2c4967 !important;
+}
+
+[data-theme="dark"] .scroll-to-top {
+  color: #333 !important;
+  background-color: #85a1c3 !important;
+}
+
+[data-theme="dark"] a.scroll-to-top:hover,
+[data-theme="dark"] a.scroll-to-top:active {
+  color: #333 !important;
+  background-color: #97aecb !important;
+}
+
+[data-theme="dark"] .shadow-sm,
+[data-theme="dark"] .shadow,
+[data-theme="dark"] .shadow-lg {
+  box-shadow: none !important;
+}
+
+[data-theme="dark"] .text-muted {
+  color: #ccc !important;
+}
