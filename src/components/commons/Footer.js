@@ -66,7 +66,7 @@ class Footer extends Component {
 
             <div className="col-md-4">
               <p className="small">
-                <FontAwesomeIcon icon={faCopyright} /> <span id="year"></span>. Built with <FontAwesomeIcon icon={faHeart} /> by Rasyid Arazak.
+                <FontAwesomeIcon icon={faCopyright} /> 2020. Built with <FontAwesomeIcon icon={faHeart} /> by Rasyid Arazak.
               </p>
             </div>
 
